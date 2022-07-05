@@ -11,3 +11,7 @@ def multiply(a,b):
     return a*b
 
 print(multiply(2,3))
+
+1. one
+2. two
+3. three
