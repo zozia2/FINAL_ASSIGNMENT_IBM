@@ -7,10 +7,13 @@ live long
 
 ### Multiply numbers
 
+'''
 def multiply(a,b):
     return a*b
 
 print(multiply(2,3))
+'''
+
 
 - one
 - two
